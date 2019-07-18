@@ -1,8 +1,8 @@
 /**
  * Blocks for driving the Kitronik Servo:Lite Board
  */
-//% weight=100 color=#00A654 icon="\uf1b9" block="Servo:Lite"
-namespace kitronik_servo_lite {
+//% weight=100 color=#00A654 icon="\uf1b9" block="Servo"
+namespace kitronik_servo  {
 
 	/************************************************************************************************************************************************
 	* micro:bit Servo:Lite / :MOVE mini blocks
