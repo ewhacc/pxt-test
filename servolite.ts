@@ -1,5 +1,5 @@
 
-//% weight=100 color=#00A654 icon="\uf1b9" block="Servo"
+//% weight=100 color=#00A654 icon="\uf21c" block="Servo"
 namespace kitronik_servo  {
 
 	
