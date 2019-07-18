@@ -1,13 +1,8 @@
-/**
- * Blocks for driving the Kitronik Servo:Lite Board
- */
+
 //% weight=100 color=#00A654 icon="\uf1b9" block="Servo"
 namespace kitronik_servo  {
 
-	/************************************************************************************************************************************************
-	* micro:bit Servo:Lite / :MOVE mini blocks
-	************************************************************************************************************************************************/
-
+	
     /*some parameters used for controlling the turn and length of the ServoLite board controlled :MOVE mini */
     const microSecInASecond = 1000000
     let distancePerSec = 100
