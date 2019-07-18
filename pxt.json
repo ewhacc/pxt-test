@@ -1,7 +1,7 @@
 {
-    "name": "pxt-kitronik-servo-lite",
+    "name": "pxt-test",
     "version": "1.0.5",
-    "description": "Blocks to simplify using Kitronik Servo:Lite board in PXT",
+    "description": "Blocks for CCK course",
     "license": "MIT",
     "dependencies": {
         "core": "*"
