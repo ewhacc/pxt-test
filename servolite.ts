@@ -22,7 +22,7 @@ namespace kitronik_servo  {
      * Drives backwards. Call stop to stop
      */
     //% blockId=kitronik_servolite_servos_backward
-    //% block="drive backward"
+    //% block="drive dd backward"
     export function backward(): void {
         pins.servoWritePin(AnalogPin.P1, 180);
         pins.servoWritePin(AnalogPin.P2, 0);
